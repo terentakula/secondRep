@@ -19,7 +19,7 @@ function App() {
       setLoading(true);
       try {
         const res = await fetch(
-          `http://api.weatherapi.com/v1/current.json?key=${KEY}&q=${city}`
+          `https://api.weatherapi.com/v1/current.json?key=${KEY}&q=${city}`
         );
         // if (!res.ok) {
         //   console.log(res);

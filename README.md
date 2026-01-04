@@ -1,2 +1,2 @@
-# React + Vite + WeatherAPI.com
+# React + Vite + WeatherAPI
 https://terentakula.github.io/secondRep/

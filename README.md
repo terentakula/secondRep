@@ -1,2 +1,2 @@
 # React + Vite + WeatherAPI
-https://terentakula.github.io/secondRep/
+https://terentakula.github.io/Weather-Wiget/
